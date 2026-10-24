@@ -1,0 +1,10 @@
+# Godot cache and per-user data
+.godot/
+*.translation
+
+# debug renders from tools/shot_runner.gd and gen_world.gd
+shots/
+
+# Blender backups
+*.blend1
+__pycache__/
